@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sio_wnet", "sio_wnet\sio_wnet.csproj", "{34C6DFE0-2589-45C1-8825-BBD03381132D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siosolution", "siosolution\siosolution.csproj", "{6E60696F-619C-4F3A-A4FE-498C87EF5B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C6DFE0-2589-45C1-8825-BBD03381132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C6DFE0-2589-45C1-8825-BBD03381132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C6DFE0-2589-45C1-8825-BBD03381132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C6DFE0-2589-45C1-8825-BBD03381132D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E60696F-619C-4F3A-A4FE-498C87EF5B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E60696F-619C-4F3A-A4FE-498C87EF5B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E60696F-619C-4F3A-A4FE-498C87EF5B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E60696F-619C-4F3A-A4FE-498C87EF5B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD00396-357C-424E-B7B9-2F276A4AA8A2}
+	EndGlobalSection
+EndGlobal
